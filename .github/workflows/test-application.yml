@@ -20,3 +20,4 @@ jobs:
         npm config get registry
         npm install yocto-queue
         npm install
+        
